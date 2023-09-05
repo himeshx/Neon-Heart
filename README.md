@@ -8,8 +8,7 @@
 
 Hello! 👋
 My name is <a href="https://github.com/himeshx">```Himesh Mohapatra```</a> 
-This GitHub project showcases an interactive web calculator designed and implemented using HTML, CSS, and JavaScript. The calculator provides a user-friendly interface for performing basic arithmetic operations such as addition, subtraction, multiplication, and division. It also includes features like a clear button to reset the input. 
-
+A captivating neon heart created purely with CSS, this dynamic design adds a vibrant and electrifying touch to your GitHub project. Its radiant glow and pulsating animation symbolize the essence of your work, drawing attention and fascination. A stunning testament to the power of CSS in creating eye-catching visuals, this neon heart is sure to leave a lasting impression on your project's visitors.
 - My GitHub profile: <a href="https://github.com/himeshx">```Github!```</a>
 - My Linkedin profile: <a href="https://www.linkedin.com/in/himesh-mohapatra-386aa8224/">```Linkedin!```</a>
 ----
