@@ -1,7 +1,7 @@
 <h2 align="center">
 Neon Heart CSS Animation
 </h2>
-
+----
 <h2 align="left">
      <b>
              🔰</a> Overview
@@ -20,8 +20,7 @@ This GitHub project showcases a captivating neon heart created purely with CSS, 
     </b>
 </h2>
 
-- CSS
-  
+- CSS  
 ----
 <h2 align="left">
   <b>
